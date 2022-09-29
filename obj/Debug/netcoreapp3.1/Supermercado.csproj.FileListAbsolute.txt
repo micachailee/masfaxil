@@ -1,0 +1,14 @@
+C:\Users\Micaela\source\repos\Supermercado\Supermercado\obj\Debug\netcoreapp3.1\Supermercado.csproj.AssemblyReference.cache
+C:\Users\Micaela\source\repos\Supermercado\Supermercado\obj\Debug\netcoreapp3.1\Supermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micaela\source\repos\Supermercado\Supermercado\obj\Debug\netcoreapp3.1\Supermercado.AssemblyInfoInputs.cache
+C:\Users\Micaela\source\repos\Supermercado\Supermercado\obj\Debug\netcoreapp3.1\Supermercado.AssemblyInfo.cs
+C:\Users\Micaela\source\repos\Supermercado\Supermercado\obj\Debug\netcoreapp3.1\Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\Micaela\source\repos\Supermercado\Supermercado\bin\Debug\netcoreapp3.1\Supermercado.exe
+C:\Users\Micaela\source\repos\Supermercado\Supermercado\bin\Debug\netcoreapp3.1\Supermercado.deps.json
+C:\Users\Micaela\source\repos\Supermercado\Supermercado\bin\Debug\netcoreapp3.1\Supermercado.runtimeconfig.json
+C:\Users\Micaela\source\repos\Supermercado\Supermercado\bin\Debug\netcoreapp3.1\Supermercado.runtimeconfig.dev.json
+C:\Users\Micaela\source\repos\Supermercado\Supermercado\bin\Debug\netcoreapp3.1\Supermercado.dll
+C:\Users\Micaela\source\repos\Supermercado\Supermercado\bin\Debug\netcoreapp3.1\Supermercado.pdb
+C:\Users\Micaela\source\repos\Supermercado\Supermercado\obj\Debug\netcoreapp3.1\Supermercado.dll
+C:\Users\Micaela\source\repos\Supermercado\Supermercado\obj\Debug\netcoreapp3.1\Supermercado.pdb
+C:\Users\Micaela\source\repos\Supermercado\Supermercado\obj\Debug\netcoreapp3.1\Supermercado.genruntimeconfig.cache
